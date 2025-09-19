@@ -22,3 +22,41 @@
   width: 300px;
   padding-top: 30px;
 }
+.flip-card-back {
+  width: 280px;
+  height: 350px;
+  background-position: center;
+  background-color: rgb(139, 118, 90);
+}
+.back-header img {
+  width: 150px;
+  margin-left: 60px;
+  margin-top: 5px;
+}
+.back-footer {
+  margin-left: 20px;
+  margin-top: 30px;
+}
+.back-footer p {
+  margin-top: 15px;
+}
+.back-footer ul {
+  display: flex;
+  margin-top: 8px;
+  margin-left: 5px;
+}
+.back-footer ul li {
+  list-style: none;
+  margin-right: 5px;
+}
+.flip-back-card-btns {
+  margin-top: 20px;
+  margin-left: 40px;
+}
+.btn {
+  padding: 8px 15px;
+  background-color: wheat;
+  color: black;
+  font-size: 15px;
+  cursor: pointer;
+}
